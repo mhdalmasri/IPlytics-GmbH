@@ -1,0 +1,10 @@
+ul{
+  display: flex;
+}
+li{
+  margin:20px 30px;
+list-style: none;
+display: inline;
+border-left: 1px black solid;
+padding-left: 10px
+}
